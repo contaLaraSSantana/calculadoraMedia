@@ -1,0 +1,176 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    transition: all 1s;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Urbanist', sans-serif;
+    text-align: center;
+}
+
+#header {
+    background-color: #83c5be;
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    align-items: center;
+    font-size: 30px;
+}
+
+#Inicio {
+    padding: 15px;
+}
+
+#Inicio p {
+    font-size: 20px;
+}
+
+.inputs {
+    border-radius: 10px;
+    padding: 8px;
+    border-color: #83c5be;
+}
+
+#Type {
+    padding: 15px;
+}
+
+#macalcular {
+    padding: 4px;
+    background-color: #83c5be;
+    border-color: azure;
+    border-radius: 5px;
+}
+
+#mpcalcular {
+    padding: 4px;
+    background-color: #83c5be;
+    border-color: azure;
+    border-radius: 5px;
+}
+
+#ma {
+    padding: 4px;
+    background-color: #83c5be;
+    border-color: azure;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+#mp {
+    padding: 4px;
+    background-color: #83c5be;
+    border-color: azure;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+#media-a h2 {
+    padding: 15px;
+}
+
+#media-p h2 {
+    padding: 15px;
+}
+
+#formulario {
+    padding: 15px;
+}
+
+#nota1 {
+    border-radius: 10px;
+    padding: 8px;
+    border-color: #83c5be;
+}
+
+#nota2 {
+    border-radius: 10px;
+    padding: 8px;
+    border-color: #83c5be;
+}
+
+#nota3 {
+    border-radius: 10px;
+    padding: 8px;
+    border-color: #83c5be;
+}
+
+#nota4 {
+    border-radius: 10px;
+    padding: 8px;
+    border-color: #83c5be;
+}
+
+#nota5 {
+    border-radius: 10px;
+    padding: 8px;
+    border-color: #83c5be;
+}
+
+
+#p-nota1 {
+    border-radius: 10px;
+    padding: 8px;
+    border-color: #83c5be;
+}
+
+#p-nota2 {
+    border-radius: 10px;
+    padding: 8px;
+    border-color: #83c5be;
+}
+
+#p-nota3 {
+    border-radius: 10px;
+    padding: 8px;
+    border-color: #83c5be;
+}
+
+#p-nota4 {
+    border-radius: 10px;
+    padding: 8px;
+    border-color: #83c5be;
+}
+
+#p-nota5 {
+    border-radius: 10px;
+    padding: 8px;
+    border-color: #83c5be;
+}
+
+#peso1 {
+    border-radius: 10px;
+    padding: 8px;
+    border-color: aqua;
+}
+
+#peso2 {
+    border-radius: 10px;
+    padding: 8px;
+    border-color: aqua;
+}
+
+#peso3 {
+    border-radius: 10px;
+    padding: 8px;
+    border-color: aqua;
+}
+
+#peso4 {
+    border-radius: 10px;
+    padding: 8px;
+    border-color: aqua;
+}
+
+#peso5 {
+    border-radius: 10px;
+    padding: 8px;
+    border-color: aqua;
+}
+
+html {
+    background: rgb(131, 197, 190);
+    background: linear-gradient(0deg, rgba(131, 197, 190, 1) 15%, rgba(255, 255, 255, 1) 62%);
+    height: 100%;
+}
